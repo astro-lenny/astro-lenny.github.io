@@ -1,55 +1,16 @@
 # Welcome
 - 👋 Hi, I’m Lennart. I studied Astrophysics at the University of Bonn, Germany.
-- 📫 How to reach me: mail(...at...)lennart-boehm.de
+- 📫 How to reach me: [mail(...at...)lennart-boehm.de](mailto:mail@lennart-boehm.de)
 - 👀 I’m interested in the ISM 🌌, especially star-forming regions and molecular clouds 🌥️, high mass star formation and astrochemistry 🧑‍🔬.
 - 🧑‍💻 In my bachelor thesis, I investigated the origin of counter-rotating stars in simulated galaxies.
 - 🎓 I studied astrophysics at the University of Bonn, then moved to observational studies...
 - 📡 and am currently working on the role of hydrogen chloride (HCl) 🧪 in star-forming regions.
-
-<!---
-# A short CV
---->
-
-
-# Lennart Böhm
-[GitHub](https://github.com/astro-lenny) | [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/lennart-boehm/)) | [Website](https://lennart-boehm.de)  
-Email: mail(...at...)lennart-boehm.de  
+- 👉 Here are my [🌐 website](https://lennart-boehm.de), my [🧑‍💼 LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/lennart-boehm/)) and my [🧑‍💻 GitHub](https://github.com/astro-lenny).
 
 ---
 
-## Education
+# A short CV
 
-**PhD candidate in Astrophysics**  
-European Southern Observatory, Garching bei München, Germany  
-_Started: October, 2024_  
-- Focus: High-mass star formation, Astrochemistry, Radio Astronomy  
-
-**Master of Science in Astrophysics**  
-University of Bonn, Bonn, Germany  
-_Started: October, 2022_
-_Graduated: September, 2024_ 
-- Focus: Observational (sub-mm) Astronomy, Astrochemistry
-- Thesis: "Investigating Chlorine Chemistry through Observations of HCl in Star-forming Regions"
-
-**Bachelor of Science in Physics**  
-University of Bonn, Bonn, Germany  
-_Started: October, 2017_
-- Erasmus Semester abroad at Sorbonne University, Paris, France, _2019/2020_
-_Graduated: November, 2021_
-- Focus: Astrophysics, Galaxy Evolution
-- Thesis: "Origin and Evolution of Counter-rotating Stars in Simulated Galaxies"
-
-**Business Economics**  
-University of Cologne, Cologne, Germany
-_Attended: April, 2016 – March, 2017_
-- Completed two semesters of coursework in economics, statistics, accounting and management.
-
-**Abitur (German University Entrance Qualification)**  
-Nicolaus-Cusanus-Gymnasium, Bergisch Gladbach, Germany  
-_Graduated: 2015_  
-- Focus: Physics, Mathematics, Geography
-
-  
 ---
 
 ## Current Position
@@ -102,8 +63,41 @@ _2018-2024_
     Instructed students in Python, enabling them to apply computational techniques to research.
   
 
+---
 
+## Education
 
+**PhD candidate in Astrophysics**  
+European Southern Observatory, Garching bei München, Germany  
+_Started: October, 2024_  
+- Focus: High-mass star formation, Astrochemistry, Radio Astronomy  
+
+**Master of Science in Astrophysics**  
+University of Bonn, Bonn, Germany  
+_Started: October, 2022_
+_Graduated: September, 2024_ 
+- Focus: Observational (sub-mm) Astronomy, Astrochemistry
+- Thesis: "Investigating Chlorine Chemistry through Observations of HCl in Star-forming Regions"
+
+**Bachelor of Science in Physics**  
+University of Bonn, Bonn, Germany  
+_Started: October, 2017_
+- Erasmus Semester abroad at Sorbonne University, Paris, France, _2019/2020_
+_Graduated: November, 2021_
+- Focus: Astrophysics, Galaxy Evolution
+- Thesis: "Origin and Evolution of Counter-rotating Stars in Simulated Galaxies"
+
+**Business Economics**  
+University of Cologne, Cologne, Germany
+_Attended: April, 2016 – March, 2017_
+- Completed two semesters of coursework in economics, statistics, accounting and management.
+
+**Abitur (German University Entrance Qualification)**  
+Nicolaus-Cusanus-Gymnasium, Bergisch Gladbach, Germany  
+_Graduated: 2015_  
+- Focus: Physics, Mathematics, Geography
+
+  
 
 ---
 
