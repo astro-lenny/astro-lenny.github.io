@@ -7,6 +7,8 @@
 - 📡 and am currently working on the role of hydrogen chloride (HCl) 🧪 in star-forming regions.
 - 👉 Here are my [🌐 website](https://lennart-boehm.de), my [🧑‍💼 LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/lennart-boehm/)) and my [🧑‍💻 GitHub](https://github.com/astro-lenny).
 
+
+<!---
 ---
 
 # A short CV
@@ -109,7 +111,7 @@ _Graduated: 2015_
 - **Software**: LaTeX, Git, Linux  
 - **Languages**: English (fluent), German (fluent), Italian (intermediate), French (intermediate), Russian (Beginner)
 
-<!---
+---
 
 ## Publications
 
