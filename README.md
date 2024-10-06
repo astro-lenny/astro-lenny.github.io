@@ -132,13 +132,15 @@ _Graduated: 2015_
 - Award Name, Organization, Year  
 - Grant Name, Organization, Year  
 --->
+
+<!---
 ---
 
 ## References
 
 Available upon request.
 
-<!---
+
 Lenny-DarkMatter/Lenny-DarkMatter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
